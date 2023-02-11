@@ -25,6 +25,7 @@
 |	Leapfrog Technology	|	https://www.linkedin.com/company/lftechnology/		|
 |	Lis Nepal	|	https://www.linkedin.com/company/lis-nepal-pvt-ltd/		|
 |	Logictronix	|	https://www.linkedin.com/company/logictronix/		|
+| NepAl Applied Mathematics and Informatics Institute for research | https://www.naamii.org.np/ |
 |	Mpercept Technology	|	https://www.linkedin.com/company/mpercept-technology/		|
 |	Nimble Clinical Research	|	https://www.linkedin.com/company/nimble-cr/		|
 |	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
