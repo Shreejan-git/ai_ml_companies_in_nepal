@@ -3,6 +3,7 @@
 | COMPANY NAME | LINKEDIN PROFILE|
 |-------------|---------|
 |	Angelswing	|	https://www.linkedin.com/company/angelswing/		|
+| Armis Tech | https://www.linkedin.com/company/armistech/ |
 |	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
 |	Bottle Technology	|	https://www.linkedin.com/company/bottle-technology/		|
 |	BrainTip AI	|	https://www.linkedin.com/company/braintip-ai/		|
