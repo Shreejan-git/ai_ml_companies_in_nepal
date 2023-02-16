@@ -22,6 +22,7 @@
 |	GrowByData	|	https://www.linkedin.com/company/growbydata/		|
 |	iBriz.ai	|	https://www.linkedin.com/company/ibriz-ai/		|
 |	Info Developers	|	https://www.linkedin.com/company/infodevelopers-pvt-ltd/		|
+| Innate Desing Solution| https://www.linkedin.com/company/innate-design-solution-pvt-ltd/ |
 |	Inspiring Lab	|	https://www.linkedin.com/company/inspiring-lab/		|
 |	Leapfrog Technology	|	https://www.linkedin.com/company/lftechnology/		|
 |	Lis Nepal	|	https://www.linkedin.com/company/lis-nepal-pvt-ltd/		|
