@@ -10,6 +10,7 @@
 |	Bytes N Chips Software	|	https://www.linkedin.com/company/bytes-n-chips-software/		|
 |	Chulo Solution	|	https://www.linkedin.com/company/chulo-solution/		|
 |	Cloudfactory	|	https://www.linkedin.com/company/cloudfactory-com/		|
+| Crimson Tech | https://www.linkedin.com/company/crimson-tech-nepal/ |
 |	Deerhold	|	https://www.linkedin.com/company/deerhold/		|
 |	Diyo.AI	|	https://www.linkedin.com/company/diyoai/		|
 |	Docsumo	|	https://www.linkedin.com/company/docsumoai/		|
