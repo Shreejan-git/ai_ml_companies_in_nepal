@@ -13,6 +13,7 @@
 | Crimson Tech | https://www.linkedin.com/company/crimson-tech-nepal/ |
 |	Deerhold	|	https://www.linkedin.com/company/deerhold/		|
 |	Diyo.AI	|	https://www.linkedin.com/company/diyoai/		|
+| DLytica inc | https://www.linkedin.com/company/dlytica/ |
 |	Docsumo	|	https://www.linkedin.com/company/docsumoai/		|
 |	Ekbana Solutions	|	https://www.linkedin.com/company/ekbana-solutions-pte--ltd/		|
 |	Ensemble Matrix	|	https://www.linkedin.com/company/ensemblematrix/		|
