@@ -6,6 +6,7 @@
 | Armis Tech | https://www.linkedin.com/company/armistech/ |
 |	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
 |	Bottle Technology	|	https://www.linkedin.com/company/bottle-technology/		|
+|   BSAI Techno Sales   |   https://www.linkedin.com/company/bsaitechnosales/       |
 |	BrainTip AI	|	https://www.linkedin.com/company/braintip-ai/		|
 |	Bytes N Chips Software	|	https://www.linkedin.com/company/bytes-n-chips-software/		|
 |	Chulo Solution	|	https://www.linkedin.com/company/chulo-solution/		|
@@ -26,6 +27,7 @@
 |	Info Developers	|	https://www.linkedin.com/company/infodevelopers-pvt-ltd/		|
 | Innate Desing Solution| https://www.linkedin.com/company/innate-design-solution-pvt-ltd/ |
 |	Inspiring Lab	|	https://www.linkedin.com/company/inspiring-lab/		|
+|   Identv Nepal    |   https://www.linkedin.com/company/identvnepal/       |
 |	Leapfrog Technology	|	https://www.linkedin.com/company/lftechnology/		|
 |	Lis Nepal	|	https://www.linkedin.com/company/lis-nepal-pvt-ltd/		|
 |	Logictronix	|	https://www.linkedin.com/company/logictronix/		|
