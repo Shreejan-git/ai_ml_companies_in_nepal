@@ -33,6 +33,7 @@
 |	Mpercept Technology	|	https://www.linkedin.com/company/mpercept-technology/		|
 |	Nimble Clinical Research	|	https://www.linkedin.com/company/nimble-cr/		|
 |	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
+| Palm Mind Technology | https://www.linkedin.com/company/palm-mind-technology/ |
 |	Reppey AI	|	https://www.linkedin.com/company/rippey/		|
 |	Tekkon Technologies Nepal	|	https://www.linkedin.com/company/tekkontech/		|
 |	Treeleaf Technologies	|	https://www.linkedin.com/company/treeleafai/		|
