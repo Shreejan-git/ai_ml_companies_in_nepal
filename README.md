@@ -6,7 +6,7 @@
 | Armis Tech | https://www.linkedin.com/company/armistech/ |
 |	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
 |	Bottle Technology	|	https://www.linkedin.com/company/bottle-technology/		|
-|   BSAI Techno Sales   |   https://www.linkedin.com/company/bsaitechnosales/       |
+| BSAI Techno Sales   |   https://www.linkedin.com/company/bsaitechnosales/       |
 |	BrainTip AI	|	https://www.linkedin.com/company/braintip-ai/		|
 |	Bytes N Chips Software	|	https://www.linkedin.com/company/bytes-n-chips-software/		|
 |	Chulo Solution	|	https://www.linkedin.com/company/chulo-solution/		|
