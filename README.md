@@ -38,7 +38,7 @@
 |	Nimble Clinical Research	|	https://www.linkedin.com/company/nimble-cr/		|
 |	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
 | Palm Mind Technology | https://www.linkedin.com/company/palm-mind-technology/ |
-|	Reppey AI	|	https://www.linkedin.com/company/rippey/		|
+|	Rippey AI	|	https://www.linkedin.com/company/rippey/		|
 | Smart Data Solutions | https://www.linkedin.com/company/smart-data-solutions/life/smartlife/ |
 |	Tekkon Technologies Nepal	|	https://www.linkedin.com/company/tekkontech/		|
 | Tesseract Intelligence | https://www.linkedin.com/company/tesseract-intelligence/ |
