@@ -39,6 +39,7 @@
 |	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
 | Palm Mind Technology | https://www.linkedin.com/company/palm-mind-technology/ |
 |	Rippey AI	|	https://www.linkedin.com/company/rippey/		|
+| Subiz Innovations | https://subizinnovations.com.np/|
 | Smart Data Solutions | https://www.linkedin.com/company/smart-data-solutions/life/smartlife/ |
 |	Tekkon Technologies Nepal	|	https://www.linkedin.com/company/tekkontech/		|
 | Tesseract Intelligence | https://www.linkedin.com/company/tesseract-intelligence/ |
