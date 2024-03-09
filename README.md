@@ -2,6 +2,7 @@
 
 | COMPANY NAME | LINKEDIN PROFILE|
 |-------------|---------|
+|	AlphaTeds	|	https://www.linkedin.com/company/alphateds/about/		|
 |	Angelswing	|	https://www.linkedin.com/company/angelswing/		|
 | Armis Tech | https://www.linkedin.com/company/armistech/ |
 |	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
