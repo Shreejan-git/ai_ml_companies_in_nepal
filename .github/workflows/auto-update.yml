@@ -1,0 +1,30 @@
+name: Auto Update README
+
+on:
+  push:
+    paths:
+      - 'companies.csv'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run script
+        run: python generate_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update README from CSV" || echo "No changes"
+          git push

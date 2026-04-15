@@ -1,4 +1,4 @@
-## List of the AI/ML/Data Science based companies in Nepal
+# Nepal AI/ML Companies
 
 | Company Names | Contacts |
 |--------------|----------|
